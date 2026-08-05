@@ -1,6 +1,6 @@
 # Retail Sales Analysis Insight Report
 
-The business is generally generating strong total revenue of $2,297,200.86 with $286,397.02 profit resulting in th margin of 12.47% which is a healthy baseline profitability means company is generationg $12.47 profit on every $100 product. However due to certain region and category the business is generating less profit then it should.
+The business is generally generating strong total revenue of $2,297,200.86 with $286,397.02 profit resulting in th margin of 12.47% which is a healthy baseline profitability means company is generationg $12.47 profit on every $100 product. However due to certain region and category the business is generating less profit then it should. eow is the detail breakdown of key business insights.
 
 ## Category Performance Analysis
 * **Technology:** This category generates highest revenue among all generating $836,154.03 total sales which is approximately 36.39% of total sales with $145,454.95 rsulting in 17.40% margin.
