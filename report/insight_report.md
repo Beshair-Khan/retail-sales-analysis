@@ -14,7 +14,7 @@ The business is generally generating strong total revenue of `$2,297,200.86` wit
 * **Central:** This is the weakest region. Generated `$501,239.89` in sales but only `$39,706.36` in profit resulting in a compressed `7.92% profit margin`. Despite generating `$109K` more in revenue than the South Central region yields `$7K` less in net profit due to excessive regional discounting.
 
 ## Monthly & Seasonal Sales Trend
-The sales surgs sharply in Quarter 4 between October and December but drops consistently in 1st Quarter (January) while the 2nd and 3rd Quarter acts as revenue recovery quarters laying the groundwork for 4th Quarter's peak.
+The sales surgs sharply in Quarter 4 between October and December but drops consistently in 1st Quarter while the 2nd and 3rd Quarter acts as revenue recovery quarters laying the groundwork for 4th Quarter's peak.
 
 ## Top Performer VS Low Performer Product:
 ### Top Performers:
